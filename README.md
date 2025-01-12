@@ -42,8 +42,7 @@ Do you want to play again (Yes/No)? no
 Contributions are welcome! Feel free to open an issue or submit a pull request with improvements or bug fixes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-GitHub: [shivamr021](https://github.com/shivamr021)
+## Author
+[Shivam Rathod](https://github.com/shivamr021)
